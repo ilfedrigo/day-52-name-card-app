@@ -1,0 +1,17 @@
+body {
+    background-color: whitesmoke;
+}
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.image {
+    margin: 40px;
+    border-radius: 50%;
+    width: 200px;
+}
+
+.skills {
+    margin-left: 100px;
+}
